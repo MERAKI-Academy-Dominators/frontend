@@ -1,0 +1,75 @@
+#MyRequset{
+  display: grid;
+  grid-template-columns: 370px 370px 370px 370px;
+  grid-template-rows: 200px 200px 200px  ;
+  gap: 10px;
+  
+}
+
+
+#RequestCard5{
+    background-color: rgb(189, 189, 189);
+    height: 200px;
+    position: relative;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    font-size: medium;
+    
+}
+
+#blood5{
+  font-size: 1.7em ;
+  position: absolute;
+  top: 2%;
+  left : 5% ;
+  color: rgb(129, 3, 3);
+
+}
+
+#hosp5{
+    font-size: 1.7em ;
+    position: absolute;
+    top: 23%;
+     left : 5% ;
+     color: rgb(129, 3, 3);
+}
+
+#mydate5{
+    font-size: 1.7em ;
+    position: absolute;
+    top: 45%;
+    left : 5% ;
+    color: rgb(129, 3, 3);
+   
+}
+
+#candidates{
+    position: absolute;
+    top:77%;
+    left : 88% ;
+    font-size: 1.1cm;
+    color: rgb(129, 3, 3);
+    cursor: pointer;
+    
+}
+
+
+#conBack{
+    position: absolute;
+    font-size: 2cm;
+    top: 80%;
+    left: 2%;
+    cursor: pointer;
+}
+
+
+
+
+
+#delete{
+    position: absolute;
+    top:2%;
+    left : 88% ;
+    font-size: 1.2cm;
+    color: rgb(129, 3, 3);
+    cursor: pointer;
+}

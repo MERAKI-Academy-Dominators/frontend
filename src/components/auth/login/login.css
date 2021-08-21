@@ -1,0 +1,56 @@
+.register{
+    display: flex;
+    position: relative;
+}
+.form{
+    text-align: center;
+    border: 1px solid #dbdbdb;
+    margin-top: 100px;
+    height: 400px;
+}
+.h1 {
+    margin-left: 35%;
+    min-height: 80vh;
+    text-align: center;
+    width: 400px;
+    color: black;
+    font-family: "Mukta", sans-serif;
+    
+}
+.mass{
+    font-size: medium;
+    text-align: center;
+    font-family: "Mukta", sans-serif;
+   
+}
+.signUp {
+    border: none;
+    color: white;
+    text-align: center;
+    margin: 4px 2px;
+    opacity: 0.6;
+    transition: 0.3s;
+    background-color: #e11e25;
+    padding: 10px 20px;
+    font-size: 13px;
+    cursor: pointer;
+    opacity: 0.6;
+    transition: 0.3s;
+}
+.signUp:hover {
+    opacity: 1;
+}
+.doYou{
+  margin-top: 25px;
+  font-size: 15px;
+ text-decoration: none;
+}
+#agreement {
+    text-align: center;
+    font-size: 15px;
+    color: #8e8e8e;
+    font-family: "Mukta", sans-serif;
+  }
+  .sign {
+
+  }
